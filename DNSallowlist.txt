@@ -53,3 +53,17 @@ clients3.google.com
 *.gvt2.com
 zfrmz.com
 *.zoho.com
+microsoft.com
+*.microsoft.com
+login.microsoftonline.com
+graph.microsoft.com
+outlook.office365.com
+teams.microsoft.com
+onmicrosoft.com
+*.onmicrosoft.com
+msftconnecttest.com
+msftncsi.com
+activation.sls.microsoft.com
+crl.microsoft.com
+ocsp.digicert.com
+
