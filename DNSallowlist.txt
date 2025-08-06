@@ -66,4 +66,6 @@ msftncsi.com
 activation.sls.microsoft.com
 crl.microsoft.com
 ocsp.digicert.com
+pln.co.id
+*.pln.co.id
 
