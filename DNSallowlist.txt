@@ -86,5 +86,8 @@ cdn.whatsapp.net
 mmg.whatsapp.net
 web.whatsapp.com
 pps.whatsapp.net
+netflix.com
+www.netflix.com
+api.netflix.com
 
 
